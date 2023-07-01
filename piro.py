@@ -4,5 +4,5 @@ def piro():
     return 1
 
 def product_display():
-    print("나는 상품")
+    print("나는 상품2")
     return 1
